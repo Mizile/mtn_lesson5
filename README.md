@@ -1,4 +1,4 @@
-# mtn_app
+# mtn camera app
 
 ## MTN Business App Academy
 
